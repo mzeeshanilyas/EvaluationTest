@@ -1,0 +1,17 @@
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\PaymentProcessor.Models.DTO\bin\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.deps.json
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\PaymentProcessor.Models.DTO\bin\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.dll
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\PaymentProcessor.Models.DTO\bin\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.pdb
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\PaymentProcessor.Models.DTO\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.csprojAssemblyReference.cache
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\PaymentProcessor.Models.DTO\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.AssemblyInfoInputs.cache
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\PaymentProcessor.Models.DTO\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.AssemblyInfo.cs
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\PaymentProcessor.Models.DTO\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\PaymentProcessor.Models.DTO\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.dll
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\PaymentProcessor.Models.DTO\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.pdb
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\Github\trunk\PaymentProcessor.Models.DTO\bin\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.deps.json
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\Github\trunk\PaymentProcessor.Models.DTO\bin\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.dll
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\Github\trunk\PaymentProcessor.Models.DTO\bin\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.pdb
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\Github\trunk\PaymentProcessor.Models.DTO\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.AssemblyInfoInputs.cache
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\Github\trunk\PaymentProcessor.Models.DTO\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.AssemblyInfo.cs
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\Github\trunk\PaymentProcessor.Models.DTO\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\Github\trunk\PaymentProcessor.Models.DTO\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.dll
+C:\Users\Sobzee\Downloads\dotnetcore-payment-processor-master\Github\trunk\PaymentProcessor.Models.DTO\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.DTO.pdb
